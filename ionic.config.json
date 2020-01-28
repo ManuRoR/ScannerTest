@@ -1,5 +1,7 @@
 {
   "name": "LectorDeCodigos",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
